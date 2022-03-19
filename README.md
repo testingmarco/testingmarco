@@ -1,9 +1,9 @@
 ### Olá Eu sou o Marco Rodrigues 👋
 
-- 🔭 Hoje trabalho com Teste de Software Automatizado
-- 🌱 já terminei um Botcamp da (DIO) de Quality Assurence
-- 👯 Fazendo Faculdade em Cyber Securit na Esatácio
-- 🤔 CeleniumWebDriver/Cypress/Postman/RESTAssured
+- 🔭 Hoje trabalho com Teste de Software Automatizado.
+- 🌱 já terminei um Botcamp da (DIO) de Quality Assurence.
+- 👯 Fazendo Faculdade em Cyber Securit na Esatácio.
+- 🤔 Pronome Ele/Dele.
 
 <div align="center">
   <a href="https://github.com/testingmarco">
