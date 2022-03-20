@@ -5,6 +5,10 @@
   <img src="https://i.postimg.cc/HkZrP6JZ/Sem-T-tulo-1.png" alt="Sublime's custom image"/>
 </p>
 
+<p align="center">
+  <img src="https://i.postimg.cc/bvkwsQPy/Sem-T-tulo-2.png" alt="Sublime's custom image"/>
+</p>
+
 
 Profissional extremamente hands-on sempre que preciso absorvo um novo conhecimento, seja de negócio ou em tecnologia, sou confortável com novos desafios e possuo facilidade para trabalho em equipe e pressão. Tenho disposições para aprender mais, consigo ter bom relacionamento. Trabalho bem em equipe, e disposiçâo para aprender mais, tenho habilidades com IDEs (Eclipse, IntelijID, Visual Estudio Code Automatização de teste com Selenium WebDriver, Teste Web, Teste Manual, Teste de API com Postman, Teste web em Cypress, previsão de cenários de tetes, geração de massa de dados para testes,  noção e conhecimento em escrita de casos de testes, escrita em BDD e User Stores, noção de ferramentas e metodologias ágeis Estou em busca de ocupar uma vaga em uma equipe que me ensine mais e me dê oportunidade de crescer Faço testes Manuais e automatizados.
 
@@ -18,14 +22,6 @@ Profissional extremamente hands-on sempre que preciso absorvo um novo conhecimen
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 <hr
-
-## Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
-
-
 
 <div align="center">
   <a href="https://github.com/testingmarco">
