@@ -5,17 +5,18 @@
   <img src="https://i.postimg.cc/HkZrP6JZ/Sem-T-tulo-1.png" alt="Sublime's custom image"/>
 </p>
 
-<p align="center">
-  <img src="https://i.postimg.cc/bvkwsQPy/Sem-T-tulo-2.png" alt="Sublime's custom image"/>
-</p>
-
-
 Profissional extremamente hands-on sempre que preciso absorvo um novo conhecimento, seja de negócio ou em tecnologia, sou confortável com novos desafios e possuo facilidade para trabalho em equipe e pressão. Tenho disposições para aprender mais, consigo ter bom relacionamento. Trabalho bem em equipe, e disposiçâo para aprender mais, tenho habilidades com IDEs (Eclipse, IntelijID, Visual Estudio Code Automatização de teste com Selenium WebDriver, Teste Web, Teste Manual, Teste de API com Postman, Teste web em Cypress, previsão de cenários de tetes, geração de massa de dados para testes,  noção e conhecimento em escrita de casos de testes, escrita em BDD e User Stores, noção de ferramentas e metodologias ágeis Estou em busca de ocupar uma vaga em uma equipe que me ensine mais e me dê oportunidade de crescer Faço testes Manuais e automatizados.
 
 - 🔭 Hoje trabalho com Teste de Software Automatizado.
 - 🌱 já terminei um Botcamp da (DIO) de Quality Assurence.
 - 👯 Fazendo Faculdade em Cyber Securit na Esatácio.
 - 🤔 Pronome Ele/Dele.
+
+<h3 align="center">Hard Skill</h3>
+
+<p align="center">
+  <img src="https://i.postimg.cc/bvkwsQPy/Sem-T-tulo-2.png" alt="Sublime's custom image"/>
+</p>
 
 <h4 align="center">
  
